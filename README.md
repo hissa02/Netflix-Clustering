@@ -92,11 +92,11 @@ jupyter notebook netflix_clustering_analysis.ipynb
 ## 📊 Visualizações
 
 ### KMeans - Segmentação 2D
-![KMeans Clustering](results/kmeans_clusters_plot.png)
+[KMeans Clustering](results/kmeans_clusters_plot.png)
 *Distribuição de filmes por ano de lançamento vs duração*
 
 ### DBSCAN - Análise 3D
-![DBSCAN 3D](results/dbscan_clusters_3d.png)
+[DBSCAN 3D](results/dbscan_clusters_3d.png)
 *Análise tridimensional incluindo classificação indicativa*
 
 ## 📚 Metodologia
